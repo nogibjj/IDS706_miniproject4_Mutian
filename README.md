@@ -1,6 +1,5 @@
 # Week 4 Mini Project 4 -  GitHub Actions Matrix Build
-[![CI](https://github.com/nogibjj/IDS706_miniproject2_Mutian/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_miniproject2_Mutian/actions/workflows/cicd.yml)
- 
+[![Test Multiple Python Versions](https://github.com/nogibjj/IDS706_miniproject4_Mutian/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_miniproject4_Mutian/actions/workflows/cicd.yml)
 
 ## Goal
 Create a GitHub Actions Matrix Build that tests at least 3 versions of Python.
