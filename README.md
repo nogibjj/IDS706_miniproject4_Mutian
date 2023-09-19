@@ -10,10 +10,10 @@ This project demonstrates some basic statistical info on the Oscars female datas
 
 
 ## Requirements
-* Python (Version 3.6 or newer)
-* Pandas (Version 2.1.0)
+* Python (Version 3.7 or 3.8 or 3.9)
+* Pandas (Version 1.1.5)
 * Matplotlib (Version 3.4.3)
-* Numpy(Version 1.22.4)
+* Numpy(Version 1.21.0)
 
 ## Run
 * install code `make install`
