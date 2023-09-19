@@ -1,6 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
+
 def loadDf(path):
     df = pd.read_csv(path)
     df.columns = ['Year','Age','Name','Movie','Movie2']
